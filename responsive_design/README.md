@@ -1,1 +1,0 @@
-All the responsive signs 
