@@ -1,0 +1,49 @@
+/* Styles for the primary button */
+.btn-primary {
+    background-color: #E0003C !important; /* Set background color */
+    border-color: #E0003C !important; /* Ensure border matches */
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #BC1340 !important; /* Set hover/focus/active background color */
+    border-color: #BC1340 !important; /* Ensure border matches on hover */
+}
+
+/* Styles for the outline primary button */
+.btn-outline-primary {
+    color: #E0003C !important; /* Set text color */
+    border-color: #E0003C !important; /* Set border color */
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active {
+    color: #BC1340 !important; /* Set text color on hover */
+    border-color: #BC1340 !important; /* Set border color on hover */
+}
+
+/* Styles for card borders and rounded corners */
+.card,
+.card-header,
+.card-footer {
+    border-color: #E0003C !important; /* Set border color for card */
+    border-radius: 1rem !important; /* Set border radius */
+}
+
+/* Styles for muted text */
+.text-muted {
+    color: #8C8C8C !important; /* Set muted text color */
+}
+
+/* Ensure links have the specified color */
+a {
+    color: #E0003C !important; /* Set link text color */
+}
+
+a:hover,
+a:focus {
+    color: #BC1340 !important; /* Set link color on hover */
+}
+

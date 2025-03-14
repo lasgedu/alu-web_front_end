@@ -1,0 +1,23 @@
+// body {
+//     margin: 0;
+//     padding: 0;
+//   }
+  
+//   body p {
+//     margin: 10px;
+//   }
+
+$body-margin: 0px;
+$body-padding: 0px;
+$p-margin: 10px;
+
+body {
+  margin: $body-margin;
+  padding: $body-padding;
+
+  p {
+    margin: $p-margin;
+  }
+}
+
+  
